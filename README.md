@@ -1,3 +1,5 @@
+Please note that this is the version that I use for my own papers and is the version that I could built. -- Ali Shakiba
+
 FLANN - Fast Library for Approximate Nearest Neighbors
 ======================================================
 
